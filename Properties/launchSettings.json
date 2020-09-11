@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CraCli": {
+      "commandName": "Project",
+      "commandLineArgs": "-n newapp"
+    }
+  }
+}
